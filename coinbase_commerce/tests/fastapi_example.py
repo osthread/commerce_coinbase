@@ -1,4 +1,4 @@
-from coinbase_commerce import CoinbaseCommerceAPI
+from commerce_coinbase import CoinbaseCommerceAPI
 from fastapi import FastAPI, HTTPException, Request, Response
 
 app = FastAPI()
