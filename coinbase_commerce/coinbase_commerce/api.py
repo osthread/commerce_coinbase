@@ -51,7 +51,7 @@ class CoinbaseCommerceAPI:
 
         try:
             with httpx.Client() as client:
-                response = client.post('https://api.commerce.coinbase.com/charges', headers=self.headers, json=data)
+                response = client.post(f"https://{self.base_url}/charges", headers=self.headers, json=data)
                 response.raise_for_status()
                 charge_info = response.json()
 
