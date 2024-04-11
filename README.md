@@ -56,7 +56,7 @@ Contributions to `coinbase_commerce` are welcome! Please refer to the [Contribut
 
 ## License
 
-`coinbase_commerce` is made available under the MIT License. For more details, see the [LICENSE](LICENSE) file in the repository.
+`coinbase_commerce` is made available under the GPL-3.0 License. For more details, see the [LICENSE](LICENSE) file in the repository.
 
 ## Support and Contact
 
