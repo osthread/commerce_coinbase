@@ -60,7 +60,7 @@ Contributions to `coinbase_commerce` are welcome! Please refer to the [Contribut
 
 ## Support and Contact
 
-If you encounter any issues or have questions about `coinbase_commerce`, please file an issue on the [GitHub issues page](https://github.com/maxiedev/coinbase_commerce/issues).
+If you encounter any issues or have questions about `coinbase_commerce`, please file an issue on the [GitHub issues page](https://github.com/maxiedev/Coinbase-Commerce/issues).
 
 ---
 
