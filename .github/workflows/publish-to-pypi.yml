@@ -1,4 +1,4 @@
-name: Coinbase Commerce 
+name: commerce_coinbase 
 
 on:
   release:
