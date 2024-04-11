@@ -1,6 +1,8 @@
 from commerce_coinbase import CoinbaseCommerceAPI
 from fastapi import FastAPI, HTTPException, Request, Response
 
+import httpx, uvicorn
+
 app = FastAPI()
 api_key = "YOUR_API_KEY"
 api = CoinbaseCommerceAPI(api_key=api_key)
