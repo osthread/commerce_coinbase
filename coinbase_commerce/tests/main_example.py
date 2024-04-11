@@ -1,4 +1,4 @@
-from coinbase_commerce import CoinbaseCommerceAPI
+from commerce_coinbase import CoinbaseCommerceAPI
 
 api_key = "YOUR_API_KEY"
 api = CoinbaseCommerceAPI(api_key=api_key)
