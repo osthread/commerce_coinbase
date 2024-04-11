@@ -1,4 +1,4 @@
-# coinbase_commerce
+# Coinbase Commerce
 
 Since the official Coinbase Commerce API wrapper is no longer being actively updated and has become outdated, I decided to take the initiative to write my own and commit to keeping it up-to-date. `coinbase_commerce` is a comprehensive Python library that simplifies interactions with the Coinbase Commerce API, enabling developers to easily integrate cryptocurrency payments into their applications. With `coinbase_commerce`, you can create charges, list charges, cancel charges, and verify webhook signatures directly from your Python code.
 
