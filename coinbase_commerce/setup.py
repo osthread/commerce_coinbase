@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='coinbase_commerce',
+    name='commerce_coinbase',
     version='0.1.0',
     author='MaxieDev',
     author_email='support@trinixbot.xyz',
