@@ -18,7 +18,7 @@ git clone https://github.com/MaxieDev/Coinbase-Commerce.git
 ```
 
 ```bash
-cd Coinbase-Commerce/coinbase_commerce
+cd Coinbase-Commerce
 ```
 
 ```bash
