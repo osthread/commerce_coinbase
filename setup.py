@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     author='MaxieDev',
     author_email='support@trinixbot.xyz',
-    description='A simple Python wrapper for the Coinbase Commerce API.',
+    description='A simple unofficial Python wrapper for the Coinbase Commerce API.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/MaxieDev/Coinbase-Commerce',
