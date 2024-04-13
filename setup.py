@@ -8,7 +8,7 @@ setup(
     description='A simple unofficial Python wrapper for the Coinbase Commerce API.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/MaxieDev/Coinbase-Commerce',
+    url='https://github.com/MaxieDev/commerce_coinbase',
     packages=find_packages(),
     install_requires=[
         'httpx',
