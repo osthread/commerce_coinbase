@@ -17,8 +17,6 @@ Install `commerce_coinbase` via pip to get started:
 pip install commerce-coinbase
 ```
 
-Note: This package is not yet available on PyPI. Installation instructions will be updated upon release.
-
 ## Getting Started
 
 Here's how to create a new charge using `commerce_coinbase`:
