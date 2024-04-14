@@ -14,15 +14,7 @@ Since the official Coinbase Commerce API wrapper is no longer being actively upd
 Install `commerce_coinbase` via pip to get started:
 
 ```bash
-git clone https://github.com/MaxieDev/Coinbase-Commerce.git
-```
-
-```bash
-cd Coinbase-Commerce
-```
-
-```bash
-python setup.py install
+pip install commerce-coinbase
 ```
 
 Note: This package is not yet available on PyPI. Installation instructions will be updated upon release.
