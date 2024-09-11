@@ -2,7 +2,6 @@ import httpx, hmac, hashlib
 
 class CoinbaseCommerceAPI:
     def __init__(self, api_key):
-        self.api_key = api_key
         self.base_url = "api.commerce.coinbase.com"
         self.headers = {
             "X-CC-Api-Key": api_key, 
